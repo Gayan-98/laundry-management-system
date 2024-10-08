@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 # laundry-management-system
-jsp-servlet project 
+jsp-servlet project
